@@ -3,7 +3,7 @@
 RelEdgePool is a novel deterministic algorithm for pooling 3D meshes that operates natively on n-gonal manifold and non-manifold meshes without requiring pre-processing steps like triangulation or remeshing. The algorithm combines edge-based vertex averaging for pooling with a novel "vertex relational clustering" approach for re-establishing connectivity in pooled meshes.
 
 ![Teaser](repository_images/human_collage.jpeg)
-*Progressive reduction in mesh complexity while maintaining topological structure using RelEdgePool*
+*Progressive reduction in mesh complexity while maintaining geometric similarity using RelEdgePool*
 
 ## Key Features
 
