@@ -32,7 +32,7 @@ The algorithm is highly generalizable, capable of processing a wide range of mes
 ## Experimental Results
 
 - **Generalizability**: Successfully pools both manifold and non-manifold, triangular, quadrilateral, and higher n-gonal meshes.
-- **Performance**: Outperforms existing mesh pooling algorithms in terms of determinism, vertex reduction, and geometric preservation.
+- **Performance**: Outperforms existing mesh pooling algorithms in terms of determinism, generalizability, and vertex reduction, while maintaining highly competitive performance in geometric preservation.
 - **Robustness**: Handles challenging scenarios such as meshes with regions of no thickness, shared edges among multiple faces, interior faces, and inconsistent normals.
 
 Please refer to the [paper](https://doi.org/10.22541/au.175856984.48726132/v1) for detailed results, ablation studies, and benchmarks.
