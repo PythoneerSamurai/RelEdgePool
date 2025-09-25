@@ -75,6 +75,7 @@ If you use this code or ideas from RelEdgePool in your research, please cite:
   title        = {RelEdgePool: Relational Edge-Aware Pooling for n-gonal manifold and non-manifold 3D meshes},
   date         = {2025-09-22},
   doi          = {10.22541/au.175856984.48726132/v1},
+  url          = {https://doi.org/10.22541/au.175856984.48726132/v1},
   publisher    = {Authorea},
   note         = {Preprint}
 }
