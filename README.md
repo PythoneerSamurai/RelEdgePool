@@ -1,4 +1,6 @@
-This is an official implementation for **RelEdgePool: Relational Edge-Aware Pooling for n-gonal manifold and non-manifold 3D meshes**
+# RelEdgePool
+
+Official Implementation for **RelEdgePool: Relational Edge-Aware Pooling for n-gonal manifold and non-manifold 3D meshes**.
 
 ---
 
